@@ -1,0 +1,27 @@
+{
+  "name": "fulu-nodejs-sdk",
+  "version": "1.0.0",
+  "description": "福禄开放平台nodejs版本SDK",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouchangjian/fulu-nodejs-sdk.git"
+  },
+  "keywords": [
+    "福禄",
+    "sdk",
+    "fulu"
+  ],
+  "author": "ouchangjian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ouchangjian/fulu-nodejs-sdk/issues"
+  },
+  "homepage": "https://github.com/ouchangjian/fulu-nodejs-sdk#readme"
+}
